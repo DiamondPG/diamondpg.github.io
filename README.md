@@ -4,4 +4,4 @@
 
 - Project Sapphire - Development Stopped
 
-- StatsApp
+- [StatsApp](https://github.com/diamondpg/statsapp)
